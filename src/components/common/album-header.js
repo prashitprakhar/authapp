@@ -24,7 +24,7 @@ const styles = {
         shadowOpacity: 0.2
     },
     textStyle : {
-        fontSize : 30
+        fontSize : 20
     }
 }
 
